@@ -30,7 +30,7 @@ void packData(char* buffer, Operation op, double a, double b) {
     Header header;
     header.operation = op;
     header.dataSize = sizeof(double) * 2;
-
+    
     std::memcpy(buffer, &header, sizeof(Header));
     std::memcpy(buffer + sizeof(Header), &a, sizeof(double));
     std::memcpy(buffer + sizeof(Header) + sizeof(double), &b, sizeof(double));

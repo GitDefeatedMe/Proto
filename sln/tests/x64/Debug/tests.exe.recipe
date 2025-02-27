@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\all_for_lab\gRPC_TESTS\Proto\sln\x64\Debug\tests.exe</FullPath>
+      <FullPath>D:\all_for_lab\gRPC_TESTS\git_repo\Proto\sln\x64\Debug\tests.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
