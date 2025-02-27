@@ -1,0 +1,7 @@
+﻿  all_tests.cpp
+  Создание кода
+  248 of 1375 functions (18.0%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    234 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  tests.vcxproj -> D:\all_for_lab\gRPC_TESTS\Proto\sln\x64\Release\tests.exe
